@@ -24,7 +24,7 @@ public class HogwartsStudent {
     }
 
     public int getTransgressionDistance() {
-        return transgressionDistance
+        return transgressionDistance;
     }
 
     public void compareStudentWith(HogwartsStudent other) {
